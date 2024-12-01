@@ -1,0 +1,69 @@
+{
+  "usuarios": [
+    {
+      "id": "6d52",
+      "username": "esotilin2",
+      "email": "si@gmail.com",
+      "password": "123456789B",
+      "isactive": true,
+      "imagen": ""
+    },
+    {
+      "id": "a3fb",
+      "username": "el pepe 2",
+      "email": "elpepe@gmail.com",
+      "password": "123456789B",
+      "isactive": true,
+      "imagen": ""
+    },
+    {
+      "id": "0dd1",
+      "username": "Christian Lazcano",
+      "email": "ch.lazcano@profesor.duoc.cl",
+      "password": "123456789B",
+      "isactive": true
+    }
+  ],
+  "ruta": [
+    {
+      "id": "1",
+      "comuna": "Pudahuel"
+    },
+    {
+      "id": "2",
+      "comuna": "Maipú"
+    },
+    {
+      "id": "3",
+      "comuna": "La Florida"
+    },
+    {
+      "id": "4",
+      "comuna": "La Reina"
+    },
+    {
+      "id": "5",
+      "comuna": "Las Condes"
+    },
+    {
+      "id": "6",
+      "comuna": "Providencia"
+    },
+    {
+      "id": "7",
+      "comuna": "Santiago"
+    },
+    {
+      "id": "8",
+      "comuna": "San Bernardo"
+    },
+    {
+      "id": "9",
+      "comuna": "San Miguel"
+    },
+    {
+      "id": "10",
+      "comuna": "La Cisterna"
+    }
+  ]
+}
