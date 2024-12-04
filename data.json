@@ -1,0 +1,111 @@
+{
+  "usuarios": [
+    {
+      "id": "6d52",
+      "username": "esotilin2",
+      "email": "si@gmail.com",
+      "password": "123456789B",
+      "isactive": true,
+      "imagen": ""
+    },
+    {
+      "id": "a3fb",
+      "username": "el pepe 2",
+      "email": "elpepe@gmail.com",
+      "password": "123456789B",
+      "isactive": true,
+      "imagen": ""
+    },
+    {
+      "id": "0dd1",
+      "username": "Christian Lazcano",
+      "email": "ch.lazcano@profesor.duoc.cl",
+      "password": "123456789B",
+      "isactive": true
+    }
+  ],
+  "empresa": [
+    {
+      "id": "1",
+      "nombre": "Empresa 1",
+      "rut": "123456789",
+      "direccion": "Calle 123",
+      "comuna": "Pudahuel",
+      "telefono": "123456789",
+      "representante": "Jose Moncada",
+      "vehiculos": [
+        {
+          "id": "1",
+          "patente": "AB1234",
+          "marca": "Toyota",
+          "modelo": "Yaris",
+          "capacidad": "5",
+          "tipo": "Mini-bus"
+        },
+        {
+          "id": "2",
+          "patente": "CD5678",
+          "marca": "Nissan",
+          "modelo": "Sentra",
+          "capacidad": "5",
+          "tipo": "Van"
+        },
+        {
+          "patente": "BBXD12",
+          "marca": "Chevrolet",
+          "modelo": "No c",
+          "capacidad": 12,
+          "tipo": "van"
+        },
+        {
+          "patente": "asd",
+          "marca": "asd",
+          "modelo": "asd",
+          "capacidad": 2,
+          "tipo": "van"
+        }
+      ]
+    },
+    {
+      "id": "5431",
+      "nombre": "Transfer Santiago",
+      "rut": "12312312-K",
+      "direccion": "av elpepe 123",
+      "telefono": "123123123",
+      "representante": "Christian Lazcano",
+      "vehiculos": [
+        {
+          "patente": "asd",
+          "marca": "asd",
+          "modelo": "asd",
+          "capacidad": "2",
+          "tipo": "ads"
+        }
+      ]
+    },
+    {
+      "id": "c6c8",
+      "nombre": "Rodrigos S.A",
+      "rut": "12.333.423-1",
+      "direccion": "Av C Pj Maria Del Pilar 2952",
+      "telefono": "233232112",
+      "representante": "Christian Lazcano",
+      "vehiculos": [
+        {
+          "patente": "PXXE43",
+          "marca": "Kia",
+          "modelo": "TRACKER",
+          "capacidad": 4,
+          "tipo": "van"
+        },
+        {
+          "patente": "PXXE43",
+          "marca": "Kia",
+          "modelo": "TRACKER",
+          "capacidad": 4,
+          "tipo": "van"
+        }
+      ]
+    }
+  ]
+}
